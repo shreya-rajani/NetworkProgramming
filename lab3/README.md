@@ -1,3 +1,5 @@
+A DNS Client Using TCP and TCP/UDP Performance Comparison
+
 The goal of this assignment is to design, execute, and document a set of experiments comparing the performance of TCP and UDP.  You will extend Lab 2 to use TCP for communication, then you will compare TCP and UDP using several metrics.  You will also analyze your network traffic using Wireshark.
 
 Requirements
