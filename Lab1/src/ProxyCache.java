@@ -1,10 +1,3 @@
-/**
- * ProxyCache.java - Simple caching proxy
- *
- * $Id: ProxyCache.java,v 1.3 2004/02/16 15:22:00 kangasha Exp $
- *
- */
-
 import java.net.*;
 import java.io.*;
 import java.util.*;
